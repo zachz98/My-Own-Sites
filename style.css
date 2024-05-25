@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+}
+.todo{
+    color: red;
+}
